@@ -1,1 +1,10 @@
-# oic-client-configuration
+### oic-client-configuration
+
+
+Pre-requisites
+
+- HUE installation and configuration
+- Jupyter installation
+- 
+
+
